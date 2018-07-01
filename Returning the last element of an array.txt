@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int myArr[3] = { 3,4,7 };
+	cout << "Enter 3 numbers" << endl;
+	cin >> myArr[0];
+	cin >> myArr[1];
+	cin >> myArr[2];
+	cout << myArr[2];
+	system("pause");
+	return 0;
+}

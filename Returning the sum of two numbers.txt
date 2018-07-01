@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int a, b;
+int main()
+{
+	cout << "Enter a number" << endl;
+	cin >> a;
+	cout << "Enter a second number" << endl;
+	cin >> b; 
+	cout << a + b << endl;
+	system("pause");
+	return 0;
+}
