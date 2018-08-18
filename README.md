@@ -1,2 +1,2 @@
-# Edabit
-Collection of Edabit challenges 
+# C++ fun programs
+Collection of some fun c++ challenges 
